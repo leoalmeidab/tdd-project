@@ -1,0 +1,8 @@
+Teste funcional
+- escrito apenas com base na interface do sistema, 
+sem o conhecimento do código, ele testa um funcionalidade do sistema.
+- eles são escritos da perspectiva do usuário.
+
+Teste de unidade
+- verificam pequenas partes de código como uma classe ou um método.
+- são escritos a partir da perspectiva do programador.
