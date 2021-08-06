@@ -1,0 +1,3 @@
+Segundo o processo apresentado, primeiro escrevemos um teste funcional e verificamos se ele falha, 
+depois escrevemos teste de unidades para cada parte do problema, em seguida, escrevemos o código
+para cada parte e verificamos se os testes de unidades passam, logo o teste funcional deve passar.
